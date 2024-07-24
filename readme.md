@@ -39,7 +39,7 @@ The Power BI dashboard includes the following key features:
 [Youtube-Link](https://youtu.be/Mkt6lS3X5Sw)
 
 ## Project PPT Link
-[PPT-Link](https://drive.google.com/file/d/1gxW7-1c9316eR_GlMcn7Bl4NX0P68T3d/view?usp=sharing)
+[PPT-Link](https://drive.google.com/file/d/1uQLtK-ZTu5hQZ7c2VMQBvsuXzZupsfcO/view?usp=sharing)
 
 
 ---
